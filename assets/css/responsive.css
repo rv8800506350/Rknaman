@@ -1,0 +1,196 @@
+
+  /* XXL: 1400px and up start*/
+@media (min-width: 1400px) {
+  .container{
+    max-width: 1360px;
+  }
+
+
+.navbar .navbar-nav > li > a{
+    font-size: 15px !important;
+    padding: 24px 18px !important;
+}
+
+.theme-btn, .theme-btn2{
+    font-size: 13px !important;
+}
+
+}
+
+  /* XXL: 1400px and up end */
+
+  /* XL: 1200px - 1399.98px start*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.container{
+    max-width: 1260px;
+}
+
+
+.navbar .navbar-nav > li > a{
+    font-size: 15px !important;
+    padding: 24px 18px !important;
+}
+
+.theme-btn, .theme-btn2{
+    font-size: 15px !important;
+}
+
+}
+
+  /* XL: 1200px - 1399.98px end*/
+
+  /* LG: 992px - 1199.98px start*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.container{
+    max-width: 1260px;
+}
+
+
+.navbar .navbar-nav > li > a{
+    font-size: 12px !important;
+    padding: 24px 18px !important;
+}
+
+.theme-btn, .theme-btn2{
+    font-size: 13px !important;
+}
+
+}
+
+ /* LG: 992px - 1199.98px end*/
+
+
+/* MD: 768px - 991.98px start*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.hero-single{
+    margin-top: 0 !important;
+}
+
+.header{
+    display: none !important;
+}
+
+.mobile_view_header_div_main{
+    display: block !important;
+}
+
+}
+/* MD: 768px - 991.98px end*/
+
+
+/* SM: 576px - 767.98px start*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+     .contact_us_page_main_div{
+        height: auto !important;
+    }
+
+
+.hero-single{
+    margin-top: 0 !important;
+}
+
+
+    .desktop_whatsapp{
+        display: none !important;
+    }
+
+    .mobile_whatsapp{
+        display: block !important;
+    }
+
+    .beverage_main_div{
+        margin-bottom: 110px !important;
+    }
+
+.row > div:last-child .beverage_main_div{
+    margin-bottom: 20px !important;
+}
+
+
+
+    .cta_btn_div{
+        text-align: center !important;
+        margin-top: 25px;
+    }
+
+
+.main_div_footer{
+    margin-bottom: 20px !important;
+}
+
+
+.header{
+    display: none !important;
+}
+
+.mobile_view_header_div_main{
+    display: block !important;
+}
+
+}
+/* SM: 576px - 767.98px end*/
+
+ /* XS: <576px start*/
+@media (max-width: 575.98px) {
+
+    .contact_us_page_main_div{
+        height: auto !important;
+    }
+
+
+
+.hero-single{
+    margin-top: 0 !important;
+}
+
+    .beverage_main_div{
+        margin-bottom: 110px !important;
+    }
+
+.row > div:last-child .beverage_main_div{
+    margin-bottom: 20px !important;
+}
+
+    .cta_btn_div{
+        text-align: center !important;
+        margin-top: 25px;
+    }
+
+
+.footer_social_icon{
+    margin-bottom: 20px;
+}
+
+
+
+
+.main_div_footer{
+    margin-bottom: 20px !important;
+}
+
+.header{
+    display: none !important;
+}
+
+.mobile_view_header_div_main{
+    display: block !important;
+}
+
+
+.desktop_whatsapp{
+        display: none !important;
+    }
+
+    .mobile_whatsapp{
+        display: block !important;
+    }
+
+}
+ /* XS: <576px end*/
+
+
+
+
+
